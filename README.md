@@ -1,5 +1,5 @@
 # GooglePlaceApiAutocomplete_DEMO
-This is a demo for Google Places Autocomplete API. And mapping with Google map SDK.
+This is a demo for Google Places Autocomplete API. And mapping with Google map API.
 ##Screenshots
 <div style="float:left;">
     <img src="https://raw.githubusercontent.com/ithree1113/GooglePlaceApiAutocomplete_DEMO/master/ScreenShot/shot1.png" width="200">
