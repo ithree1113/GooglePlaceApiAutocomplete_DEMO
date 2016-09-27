@@ -59,7 +59,7 @@ Then the method below gets [GMSPlace](https://developers.google.com/places/ios-a
 ```
 
 ##Terms
-GooglePlaceApiAutocomplete_DEMO uses the Google Places API and Google Map API,and is bound under [Google's Places API Policies](https://developers.google.com/places/webservice/policies) and [Google Maps/Google Earth APIs Terms of Service](https://developers.google.com/maps/terms).
+GooglePlaceApiAutocomplete_DEMO uses the Google Places API and Google Map API, and is bound under [Google's Places API Policies](https://developers.google.com/places/webservice/policies) and [Displaying Attributions](https://developers.google.com/places/ios-api/attributions).
 
 ## License
 GooglePlaceApiAutocomplete_DEMO is available under the MIT license. See the [LICENSE](https://raw.githubusercontent.com/ithree1113/GooglePlaceApiAutocomplete_DEMO/master/LICENSE) file for more info.
