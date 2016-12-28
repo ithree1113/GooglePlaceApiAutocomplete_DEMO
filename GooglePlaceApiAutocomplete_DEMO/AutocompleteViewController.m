@@ -103,7 +103,7 @@
 - (void)searchBar:(UISearchBar *)searchBar textDidChange:(NSString *)searchText {
     
     if (searchText.length > 0) {
-        placesClient = [[GMSPlacesClient alloc] init];
+        placesClient = [GMSPlacesClient sharedClient];
         GMSAutocompleteFilter *filter = [[GMSAutocompleteFilter alloc] init];
         filter.type = kGMSPlacesAutocompleteTypeFilterNoFilter;
         
